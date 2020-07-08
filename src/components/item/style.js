@@ -6,7 +6,7 @@ export const Container = styled.View`
   border-radius: 4px;
   background: #eee;
 
-  flex: 1;
+  display: flex;
   flex-direction: row;
   justify-content: space-between;
   border: 1px solid #eee;
